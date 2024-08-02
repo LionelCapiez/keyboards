@@ -3,23 +3,26 @@ store(&NAME) 'Hieroglyphic'
 store(&BITMAP) 'hieroglyphic.ico'
 store(&INCLUDECODES) 'codes.txt'
 
-store(&COPYRIGHT) '© Christian Casey'
+store(&MnemonicLayout) "1"        c This keyboard uses a mnemonic layout.
+store(&COPYRIGHT) '© Christian Casey - Modified LCA'
 c store(&ETHNOLOGUECODE) 'egy'
-store(&VISUALKEYBOARD) 'hieroglyphic.kvks'
-store(&KEYBOARDVERSION) '1.4.1'
-store(&TARGETS) 'any'
-store(&LAYOUTFILE) 'hieroglyphic.keyman-touch-layout'
+c store(&VISUALKEYBOARD) 'hieroglyphic.kvks'
+store(&KEYBOARDVERSION) '1.4.4'
+store(&TARGETS) 'windows'
+c store(&LAYOUTFILE) 'hieroglyphic.keyman-touch-layout'
+
 
 begin Unicode > use(main)
 
 group(main) using keys
 
+
 c Prevents [K_SPACE] from doing anything else
  + ' ' > nul
 
 c Unless the user presses [CTRL]
-$KeymanOnly: + [CTRL K_SPACE] > ' ' return
-$KeymanWeb: + [CTRL K_SPACE] > ' '
+$KeymanOnly: + [CTRL ' '] > ' ' return
+c $KeymanWeb: + [CTRL ' '] > ' '
 
 c Text direction control (To be implemented in a later version)
 c 'ltr' + ' ' > U+202C
@@ -41,8 +44,22 @@ c Converts latin entry into transliteration
 
 c Produces standard latin key value instead of transliteration
 store(ltn) 'SDHxqTXAa`'
-+ '`' > dk(ltn)
++ "²" > dk(ltn)
 dk(ltn) + any(ltn) > index(ltn,2)
+
+
+c Joiners and positioning characters
+dk(ltn) + '²' > '²'  
+dk(ltn) + ':' > U+13430 c Vertical joiner ":"
+dk(ltn) + '*' > U+13431 c Horizontal joiner "*"
+dk(ltn) + 'u' > U+13432 c Insert at top start (left)
+dk(ltn) + 'j' > U+13433 c Insert at bottom start (left)
+dk(ltn) + 'i' > U+13434 c Insert at top end (right)
+dk(ltn) + 'k' > U+13435 c Insert at bottom end (right)
+dk(ltn) + '+' > U+13436 c Overlay middle "+"
+dk(ltn) + '(' > U+13437 c Start segment
+dk(ltn) + ')' > U+13437 c End segment
+
 
 c Phonetic values of length 1
 
