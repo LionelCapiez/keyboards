@@ -4780,3 +4780,1207 @@ $A_ $a '31' + ' ' > $Aa31
 $a $a '31' + ' ' > $Aa31
 $A_ $a '32' + ' ' > $Aa32
 $a $a '32' + ' ' > $Aa32
+
+
+c Sign families
+
+
+
+$A_ '0' + ' ' > dk(fam_A) $A1
+$a '0' + ' ' > dk(fam_A) $A1
+'B0' + ' ' > dk(fam_B) $B1
+'b0' + ' ' > dk(fam_B) $B1
+'C0' + ' ' > dk(fam_C) $C1
+'c0' + ' ' > dk(fam_C) $C1
+$D_ '0' + ' ' > dk(fam_D) $D1
+'d0' + ' ' > dk(fam_D) $D1
+'E0' + ' ' > dk(fam_E) $E1
+'e0' + ' ' > dk(fam_E) $E1
+'F0' + ' ' > dk(fam_F) $F1
+'f0' + ' ' > dk(fam_F) $F1
+'G0' + ' ' > dk(fam_G) $G1
+'g0' + ' ' > dk(fam_G) $G1
+$H_ '0' + ' ' > dk(fam_H) $H1
+'h0' + ' ' > dk(fam_H) $H1
+'I0' + ' ' > dk(fam_I) $I1
+'i0' + ' ' > dk(fam_I) $I1
+'K0' + ' ' > dk(fam_K) $K1
+'k0' + ' ' > dk(fam_K) $K1
+'L0' + ' ' > dk(fam_L) $L1
+'l0' + ' ' > dk(fam_L) $L1
+'M0' + ' ' > dk(fam_M) $M1
+'m0' + ' ' > dk(fam_M) $M1
+'N0' + ' ' > dk(fam_N) $N1
+'n0' + ' ' > dk(fam_N) $N1
+'NL0' + ' ' > dk(fam_NL) $NL1
+'nl0' + ' ' > dk(fam_NL) $NL1
+'NU0' + ' ' > dk(fam_NU) $NU1
+'nu0' + ' ' > dk(fam_NU) $NU1
+'O0' + ' ' > dk(fam_O) $O1
+'o0' + ' ' > dk(fam_O) $O1
+'P0' + ' ' > dk(fam_P) $P1
+'p0' + ' ' > dk(fam_P) $P1
+'Q0' + ' ' > dk(fam_Q) $Q1
+$q '0' + ' ' > dk(fam_Q) $Q1
+'R0' + ' ' > dk(fam_R) $R1
+'r0' + ' ' > dk(fam_R) $R1
+$S_ '0' + ' ' > dk(fam_S) $S1
+'s0' + ' ' > dk(fam_S) $S1
+$T_ '0' + ' ' > dk(fam_T) $T1
+'t0' + ' ' > dk(fam_T) $T1
+'U0' + ' ' > dk(fam_U) $U1
+'u0' + ' ' > dk(fam_U) $U1
+'V0' + ' ' > dk(fam_V) $V1
+'v0' + ' ' > dk(fam_V) $V1
+'W0' + ' ' > dk(fam_W) $W1
+'w0' + ' ' > dk(fam_W) $W1
+$X_ '0' + ' ' > dk(fam_X) $X1
+$x '0' + ' ' > dk(fam_X) $X1
+'Y0' + ' ' > dk(fam_Y) $Y1
+'y0' + ' ' > dk(fam_Y) $Y1
+'Z0' + ' ' > dk(fam_Z) $Z1
+'z0' + ' ' > dk(fam_Z) $Z1
+'Aa0' + ' ' > dk(fam_Aa) $Aa1
+'aa0' + ' ' > dk(fam_Aa) $Aa1
+
+dk(fam_A ) $A70   + ' ' > dk(fam_A ) $A1    
+dk(fam_A ) $A1    + ' ' > dk(fam_A ) $A2    
+dk(fam_A ) $A2    + ' ' > dk(fam_A ) $A3    
+dk(fam_A ) $A3    + ' ' > dk(fam_A ) $A4    
+dk(fam_A ) $A4    + ' ' > dk(fam_A ) $A5    
+dk(fam_A ) $A5    + ' ' > dk(fam_A ) $A5A   
+dk(fam_A ) $A5A   + ' ' > dk(fam_A ) $A6    
+dk(fam_A ) $A6    + ' ' > dk(fam_A ) $A6A   
+dk(fam_A ) $A6A   + ' ' > dk(fam_A ) $A6B   
+dk(fam_A ) $A6B   + ' ' > dk(fam_A ) $A7    
+dk(fam_A ) $A7    + ' ' > dk(fam_A ) $A8    
+dk(fam_A ) $A8    + ' ' > dk(fam_A ) $A9    
+dk(fam_A ) $A9    + ' ' > dk(fam_A ) $A10   
+dk(fam_A ) $A10   + ' ' > dk(fam_A ) $A11   
+dk(fam_A ) $A11   + ' ' > dk(fam_A ) $A12   
+dk(fam_A ) $A12   + ' ' > dk(fam_A ) $A13   
+dk(fam_A ) $A13   + ' ' > dk(fam_A ) $A14   
+dk(fam_A ) $A14   + ' ' > dk(fam_A ) $A14A  
+dk(fam_A ) $A14A  + ' ' > dk(fam_A ) $A15   
+dk(fam_A ) $A15   + ' ' > dk(fam_A ) $A16   
+dk(fam_A ) $A16   + ' ' > dk(fam_A ) $A17   
+dk(fam_A ) $A17   + ' ' > dk(fam_A ) $A17A  
+dk(fam_A ) $A17A  + ' ' > dk(fam_A ) $A18   
+dk(fam_A ) $A18   + ' ' > dk(fam_A ) $A19   
+dk(fam_A ) $A19   + ' ' > dk(fam_A ) $A20   
+dk(fam_A ) $A20   + ' ' > dk(fam_A ) $A21   
+dk(fam_A ) $A21   + ' ' > dk(fam_A ) $A22   
+dk(fam_A ) $A22   + ' ' > dk(fam_A ) $A23   
+dk(fam_A ) $A23   + ' ' > dk(fam_A ) $A24   
+dk(fam_A ) $A24   + ' ' > dk(fam_A ) $A25   
+dk(fam_A ) $A25   + ' ' > dk(fam_A ) $A26   
+dk(fam_A ) $A26   + ' ' > dk(fam_A ) $A27   
+dk(fam_A ) $A27   + ' ' > dk(fam_A ) $A28   
+dk(fam_A ) $A28   + ' ' > dk(fam_A ) $A29   
+dk(fam_A ) $A29   + ' ' > dk(fam_A ) $A30   
+dk(fam_A ) $A30   + ' ' > dk(fam_A ) $A31   
+dk(fam_A ) $A31   + ' ' > dk(fam_A ) $A32   
+dk(fam_A ) $A32   + ' ' > dk(fam_A ) $A32A  
+dk(fam_A ) $A32A  + ' ' > dk(fam_A ) $A33   
+dk(fam_A ) $A33   + ' ' > dk(fam_A ) $A34   
+dk(fam_A ) $A34   + ' ' > dk(fam_A ) $A35   
+dk(fam_A ) $A35   + ' ' > dk(fam_A ) $A36   
+dk(fam_A ) $A36   + ' ' > dk(fam_A ) $A37   
+dk(fam_A ) $A37   + ' ' > dk(fam_A ) $A38   
+dk(fam_A ) $A38   + ' ' > dk(fam_A ) $A39   
+dk(fam_A ) $A39   + ' ' > dk(fam_A ) $A40   
+dk(fam_A ) $A40   + ' ' > dk(fam_A ) $A40A  
+dk(fam_A ) $A40A  + ' ' > dk(fam_A ) $A41   
+dk(fam_A ) $A41   + ' ' > dk(fam_A ) $A42   
+dk(fam_A ) $A42   + ' ' > dk(fam_A ) $A42A  
+dk(fam_A ) $A42A  + ' ' > dk(fam_A ) $A43   
+dk(fam_A ) $A43   + ' ' > dk(fam_A ) $A43A  
+dk(fam_A ) $A43A  + ' ' > dk(fam_A ) $A44   
+dk(fam_A ) $A44   + ' ' > dk(fam_A ) $A45   
+dk(fam_A ) $A45   + ' ' > dk(fam_A ) $A45A  
+dk(fam_A ) $A45A  + ' ' > dk(fam_A ) $A46   
+dk(fam_A ) $A46   + ' ' > dk(fam_A ) $A47   
+dk(fam_A ) $A47   + ' ' > dk(fam_A ) $A48   
+dk(fam_A ) $A48   + ' ' > dk(fam_A ) $A49   
+dk(fam_A ) $A49   + ' ' > dk(fam_A ) $A50   
+dk(fam_A ) $A50   + ' ' > dk(fam_A ) $A51   
+dk(fam_A ) $A51   + ' ' > dk(fam_A ) $A52   
+dk(fam_A ) $A52   + ' ' > dk(fam_A ) $A53   
+dk(fam_A ) $A53   + ' ' > dk(fam_A ) $A54   
+dk(fam_A ) $A54   + ' ' > dk(fam_A ) $A55   
+dk(fam_A ) $A55   + ' ' > dk(fam_A ) $A56   
+dk(fam_A ) $A56   + ' ' > dk(fam_A ) $A57   
+dk(fam_A ) $A57   + ' ' > dk(fam_A ) $A58   
+dk(fam_A ) $A58   + ' ' > dk(fam_A ) $A59   
+dk(fam_A ) $A59   + ' ' > dk(fam_A ) $A60   
+dk(fam_A ) $A60   + ' ' > dk(fam_A ) $A61   
+dk(fam_A ) $A61   + ' ' > dk(fam_A ) $A62   
+dk(fam_A ) $A62   + ' ' > dk(fam_A ) $A63   
+dk(fam_A ) $A63   + ' ' > dk(fam_A ) $A64   
+dk(fam_A ) $A64   + ' ' > dk(fam_A ) $A65   
+dk(fam_A ) $A65   + ' ' > dk(fam_A ) $A66   
+dk(fam_A ) $A66   + ' ' > dk(fam_A ) $A67   
+dk(fam_A ) $A67   + ' ' > dk(fam_A ) $A68   
+dk(fam_A ) $A68   + ' ' > dk(fam_A ) $A69   
+dk(fam_A ) $A69   + ' ' > dk(fam_A ) $A70 
+
+
+
+dk(fam_B ) $B9    + ' ' > dk(fam_B ) $B1    
+dk(fam_B ) $B1    + ' ' > dk(fam_B ) $B2    
+dk(fam_B ) $B2    + ' ' > dk(fam_B ) $B3    
+dk(fam_B ) $B3    + ' ' > dk(fam_B ) $B4    
+dk(fam_B ) $B4    + ' ' > dk(fam_B ) $B5    
+dk(fam_B ) $B5    + ' ' > dk(fam_B ) $B5A   
+dk(fam_B ) $B5A   + ' ' > dk(fam_B ) $B6    
+dk(fam_B ) $B6    + ' ' > dk(fam_B ) $B7    
+dk(fam_B ) $B7    + ' ' > dk(fam_B ) $B8    
+dk(fam_B ) $B8    + ' ' > dk(fam_B ) $B9
+
+
+    
+dk(fam_C ) $C24   + ' ' > dk(fam_C ) $C1    
+dk(fam_C ) $C1    + ' ' > dk(fam_C ) $C2    
+dk(fam_C ) $C2    + ' ' > dk(fam_C ) $C2A   
+dk(fam_C ) $C2A   + ' ' > dk(fam_C ) $C2B   
+dk(fam_C ) $C2B   + ' ' > dk(fam_C ) $C2C   
+dk(fam_C ) $C2C   + ' ' > dk(fam_C ) $C3    
+dk(fam_C ) $C3    + ' ' > dk(fam_C ) $C4    
+dk(fam_C ) $C4    + ' ' > dk(fam_C ) $C5    
+dk(fam_C ) $C5    + ' ' > dk(fam_C ) $C6    
+dk(fam_C ) $C6    + ' ' > dk(fam_C ) $C7    
+dk(fam_C ) $C7    + ' ' > dk(fam_C ) $C8    
+dk(fam_C ) $C8    + ' ' > dk(fam_C ) $C9    
+dk(fam_C ) $C9    + ' ' > dk(fam_C ) $C10   
+dk(fam_C ) $C10   + ' ' > dk(fam_C ) $C10A  
+dk(fam_C ) $C10A  + ' ' > dk(fam_C ) $C11   
+dk(fam_C ) $C11   + ' ' > dk(fam_C ) $C12   
+dk(fam_C ) $C12   + ' ' > dk(fam_C ) $C13   
+dk(fam_C ) $C13   + ' ' > dk(fam_C ) $C14   
+dk(fam_C ) $C14   + ' ' > dk(fam_C ) $C15   
+dk(fam_C ) $C15   + ' ' > dk(fam_C ) $C16   
+dk(fam_C ) $C16   + ' ' > dk(fam_C ) $C17   
+dk(fam_C ) $C17   + ' ' > dk(fam_C ) $C18   
+dk(fam_C ) $C18   + ' ' > dk(fam_C ) $C19   
+dk(fam_C ) $C19   + ' ' > dk(fam_C ) $C20   
+dk(fam_C ) $C20   + ' ' > dk(fam_C ) $C21   
+dk(fam_C ) $C21   + ' ' > dk(fam_C ) $C22   
+dk(fam_C ) $C22   + ' ' > dk(fam_C ) $C23   
+dk(fam_C ) $C23   + ' ' > dk(fam_C ) $C24  
+
+
+ 
+dk(fam_D ) $D67H  + ' ' > dk(fam_D ) $D1    
+dk(fam_D ) $D1    + ' ' > dk(fam_D ) $D2    
+dk(fam_D ) $D2    + ' ' > dk(fam_D ) $D3    
+dk(fam_D ) $D3    + ' ' > dk(fam_D ) $D4    
+dk(fam_D ) $D4    + ' ' > dk(fam_D ) $D5    
+dk(fam_D ) $D5    + ' ' > dk(fam_D ) $D6    
+dk(fam_D ) $D6    + ' ' > dk(fam_D ) $D7    
+dk(fam_D ) $D7    + ' ' > dk(fam_D ) $D8    
+dk(fam_D ) $D8    + ' ' > dk(fam_D ) $D8A   
+dk(fam_D ) $D8A   + ' ' > dk(fam_D ) $D9    
+dk(fam_D ) $D9    + ' ' > dk(fam_D ) $D10   
+dk(fam_D ) $D10   + ' ' > dk(fam_D ) $D11   
+dk(fam_D ) $D11   + ' ' > dk(fam_D ) $D12   
+dk(fam_D ) $D12   + ' ' > dk(fam_D ) $D13   
+dk(fam_D ) $D13   + ' ' > dk(fam_D ) $D14   
+dk(fam_D ) $D14   + ' ' > dk(fam_D ) $D15   
+dk(fam_D ) $D15   + ' ' > dk(fam_D ) $D16   
+dk(fam_D ) $D16   + ' ' > dk(fam_D ) $D17   
+dk(fam_D ) $D17   + ' ' > dk(fam_D ) $D18   
+dk(fam_D ) $D18   + ' ' > dk(fam_D ) $D19   
+dk(fam_D ) $D19   + ' ' > dk(fam_D ) $D20   
+dk(fam_D ) $D20   + ' ' > dk(fam_D ) $D21   
+dk(fam_D ) $D21   + ' ' > dk(fam_D ) $D22   
+dk(fam_D ) $D22   + ' ' > dk(fam_D ) $D23   
+dk(fam_D ) $D23   + ' ' > dk(fam_D ) $D24   
+dk(fam_D ) $D24   + ' ' > dk(fam_D ) $D25   
+dk(fam_D ) $D25   + ' ' > dk(fam_D ) $D26   
+dk(fam_D ) $D26   + ' ' > dk(fam_D ) $D27   
+dk(fam_D ) $D27   + ' ' > dk(fam_D ) $D27A  
+dk(fam_D ) $D27A  + ' ' > dk(fam_D ) $D28   
+dk(fam_D ) $D28   + ' ' > dk(fam_D ) $D29   
+dk(fam_D ) $D29   + ' ' > dk(fam_D ) $D30   
+dk(fam_D ) $D30   + ' ' > dk(fam_D ) $D31   
+dk(fam_D ) $D31   + ' ' > dk(fam_D ) $D31A  
+dk(fam_D ) $D31A  + ' ' > dk(fam_D ) $D32   
+dk(fam_D ) $D32   + ' ' > dk(fam_D ) $D33   
+dk(fam_D ) $D33   + ' ' > dk(fam_D ) $D34   
+dk(fam_D ) $D34   + ' ' > dk(fam_D ) $D34A  
+dk(fam_D ) $D34A  + ' ' > dk(fam_D ) $D35   
+dk(fam_D ) $D35   + ' ' > dk(fam_D ) $D36   
+dk(fam_D ) $D36   + ' ' > dk(fam_D ) $D37   
+dk(fam_D ) $D37   + ' ' > dk(fam_D ) $D38   
+dk(fam_D ) $D38   + ' ' > dk(fam_D ) $D39   
+dk(fam_D ) $D39   + ' ' > dk(fam_D ) $D40   
+dk(fam_D ) $D40   + ' ' > dk(fam_D ) $D41   
+dk(fam_D ) $D41   + ' ' > dk(fam_D ) $D42   
+dk(fam_D ) $D42   + ' ' > dk(fam_D ) $D43   
+dk(fam_D ) $D43   + ' ' > dk(fam_D ) $D44   
+dk(fam_D ) $D44   + ' ' > dk(fam_D ) $D45   
+dk(fam_D ) $D45   + ' ' > dk(fam_D ) $D46   
+dk(fam_D ) $D46   + ' ' > dk(fam_D ) $D46A  
+dk(fam_D ) $D46A  + ' ' > dk(fam_D ) $D47   
+dk(fam_D ) $D47   + ' ' > dk(fam_D ) $D48   
+dk(fam_D ) $D48   + ' ' > dk(fam_D ) $D48A  
+dk(fam_D ) $D48A  + ' ' > dk(fam_D ) $D49   
+dk(fam_D ) $D49   + ' ' > dk(fam_D ) $D50   
+dk(fam_D ) $D50   + ' ' > dk(fam_D ) $D50A  
+dk(fam_D ) $D50A  + ' ' > dk(fam_D ) $D50B  
+dk(fam_D ) $D50B  + ' ' > dk(fam_D ) $D50C  
+dk(fam_D ) $D50C  + ' ' > dk(fam_D ) $D50D  
+dk(fam_D ) $D50D  + ' ' > dk(fam_D ) $D50E  
+dk(fam_D ) $D50E  + ' ' > dk(fam_D ) $D50F  
+dk(fam_D ) $D50F  + ' ' > dk(fam_D ) $D50G  
+dk(fam_D ) $D50G  + ' ' > dk(fam_D ) $D50H  
+dk(fam_D ) $D50H  + ' ' > dk(fam_D ) $D50I  
+dk(fam_D ) $D50I  + ' ' > dk(fam_D ) $D51   
+dk(fam_D ) $D51   + ' ' > dk(fam_D ) $D52   
+dk(fam_D ) $D52   + ' ' > dk(fam_D ) $D52A  
+dk(fam_D ) $D52A  + ' ' > dk(fam_D ) $D53   
+dk(fam_D ) $D53   + ' ' > dk(fam_D ) $D54   
+dk(fam_D ) $D54   + ' ' > dk(fam_D ) $D54A  
+dk(fam_D ) $D54A  + ' ' > dk(fam_D ) $D55   
+dk(fam_D ) $D55   + ' ' > dk(fam_D ) $D56   
+dk(fam_D ) $D56   + ' ' > dk(fam_D ) $D57   
+dk(fam_D ) $D57   + ' ' > dk(fam_D ) $D58   
+dk(fam_D ) $D58   + ' ' > dk(fam_D ) $D59   
+dk(fam_D ) $D59   + ' ' > dk(fam_D ) $D60   
+dk(fam_D ) $D60   + ' ' > dk(fam_D ) $D61   
+dk(fam_D ) $D61   + ' ' > dk(fam_D ) $D62   
+dk(fam_D ) $D62   + ' ' > dk(fam_D ) $D63   
+dk(fam_D ) $D63   + ' ' > dk(fam_D ) $D64   
+dk(fam_D ) $D64   + ' ' > dk(fam_D ) $D65   
+dk(fam_D ) $D65   + ' ' > dk(fam_D ) $D66   
+dk(fam_D ) $D66   + ' ' > dk(fam_D ) $D67   
+dk(fam_D ) $D67   + ' ' > dk(fam_D ) $D67A  
+dk(fam_D ) $D67A  + ' ' > dk(fam_D ) $D67B  
+dk(fam_D ) $D67B  + ' ' > dk(fam_D ) $D67C  
+dk(fam_D ) $D67C  + ' ' > dk(fam_D ) $D67D  
+dk(fam_D ) $D67D  + ' ' > dk(fam_D ) $D67E  
+dk(fam_D ) $D67E  + ' ' > dk(fam_D ) $D67F  
+dk(fam_D ) $D67F  + ' ' > dk(fam_D ) $D67G  
+dk(fam_D ) $D67G  + ' ' > dk(fam_D ) $D67H  
+
+
+
+dk(fam_E ) $E38   + ' ' > dk(fam_E ) $E1    
+dk(fam_E ) $E1    + ' ' > dk(fam_E ) $E2    
+dk(fam_E ) $E2    + ' ' > dk(fam_E ) $E3    
+dk(fam_E ) $E3    + ' ' > dk(fam_E ) $E4    
+dk(fam_E ) $E4    + ' ' > dk(fam_E ) $E5    
+dk(fam_E ) $E5    + ' ' > dk(fam_E ) $E6    
+dk(fam_E ) $E6    + ' ' > dk(fam_E ) $E7    
+dk(fam_E ) $E7    + ' ' > dk(fam_E ) $E8    
+dk(fam_E ) $E8    + ' ' > dk(fam_E ) $E8A   
+dk(fam_E ) $E8A   + ' ' > dk(fam_E ) $E9    
+dk(fam_E ) $E9    + ' ' > dk(fam_E ) $E9A   
+dk(fam_E ) $E9A   + ' ' > dk(fam_E ) $E10   
+dk(fam_E ) $E10   + ' ' > dk(fam_E ) $E11   
+dk(fam_E ) $E11   + ' ' > dk(fam_E ) $E12   
+dk(fam_E ) $E12   + ' ' > dk(fam_E ) $E13   
+dk(fam_E ) $E13   + ' ' > dk(fam_E ) $E14   
+dk(fam_E ) $E14   + ' ' > dk(fam_E ) $E15   
+dk(fam_E ) $E15   + ' ' > dk(fam_E ) $E16   
+dk(fam_E ) $E16   + ' ' > dk(fam_E ) $E16A  
+dk(fam_E ) $E16A  + ' ' > dk(fam_E ) $E17   
+dk(fam_E ) $E17   + ' ' > dk(fam_E ) $E17A  
+dk(fam_E ) $E17A  + ' ' > dk(fam_E ) $E18   
+dk(fam_E ) $E18   + ' ' > dk(fam_E ) $E19   
+dk(fam_E ) $E19   + ' ' > dk(fam_E ) $E20   
+dk(fam_E ) $E20   + ' ' > dk(fam_E ) $E20A  
+dk(fam_E ) $E20A  + ' ' > dk(fam_E ) $E21   
+dk(fam_E ) $E21   + ' ' > dk(fam_E ) $E22   
+dk(fam_E ) $E22   + ' ' > dk(fam_E ) $E23   
+dk(fam_E ) $E23   + ' ' > dk(fam_E ) $E24   
+dk(fam_E ) $E24   + ' ' > dk(fam_E ) $E25   
+dk(fam_E ) $E25   + ' ' > dk(fam_E ) $E26   
+dk(fam_E ) $E26   + ' ' > dk(fam_E ) $E27   
+dk(fam_E ) $E27   + ' ' > dk(fam_E ) $E28   
+dk(fam_E ) $E28   + ' ' > dk(fam_E ) $E28A  
+dk(fam_E ) $E28A  + ' ' > dk(fam_E ) $E29   
+dk(fam_E ) $E29   + ' ' > dk(fam_E ) $E30   
+dk(fam_E ) $E30   + ' ' > dk(fam_E ) $E31   
+dk(fam_E ) $E31   + ' ' > dk(fam_E ) $E32   
+dk(fam_E ) $E32   + ' ' > dk(fam_E ) $E33   
+dk(fam_E ) $E33   + ' ' > dk(fam_E ) $E34   
+dk(fam_E ) $E34   + ' ' > dk(fam_E ) $E34A  
+dk(fam_E ) $E34A  + ' ' > dk(fam_E ) $E36   
+dk(fam_E ) $E36   + ' ' > dk(fam_E ) $E37   
+dk(fam_E ) $E37   + ' ' > dk(fam_E ) $E38   
+
+
+
+dk(fam_F ) $F53   + ' ' > dk(fam_F ) $F1    
+dk(fam_F ) $F1    + ' ' > dk(fam_F ) $F1A   
+dk(fam_F ) $F1A   + ' ' > dk(fam_F ) $F2    
+dk(fam_F ) $F2    + ' ' > dk(fam_F ) $F3    
+dk(fam_F ) $F3    + ' ' > dk(fam_F ) $F4    
+dk(fam_F ) $F4    + ' ' > dk(fam_F ) $F5    
+dk(fam_F ) $F5    + ' ' > dk(fam_F ) $F6    
+dk(fam_F ) $F6    + ' ' > dk(fam_F ) $F7    
+dk(fam_F ) $F7    + ' ' > dk(fam_F ) $F8    
+dk(fam_F ) $F8    + ' ' > dk(fam_F ) $F9    
+dk(fam_F ) $F9    + ' ' > dk(fam_F ) $F10   
+dk(fam_F ) $F10   + ' ' > dk(fam_F ) $F11   
+dk(fam_F ) $F11   + ' ' > dk(fam_F ) $F12   
+dk(fam_F ) $F12   + ' ' > dk(fam_F ) $F13   
+dk(fam_F ) $F13   + ' ' > dk(fam_F ) $F13A  
+dk(fam_F ) $F13A  + ' ' > dk(fam_F ) $F14   
+dk(fam_F ) $F14   + ' ' > dk(fam_F ) $F15   
+dk(fam_F ) $F15   + ' ' > dk(fam_F ) $F16   
+dk(fam_F ) $F16   + ' ' > dk(fam_F ) $F17   
+dk(fam_F ) $F17   + ' ' > dk(fam_F ) $F18   
+dk(fam_F ) $F18   + ' ' > dk(fam_F ) $F19   
+dk(fam_F ) $F19   + ' ' > dk(fam_F ) $F20   
+dk(fam_F ) $F20   + ' ' > dk(fam_F ) $F21   
+dk(fam_F ) $F21   + ' ' > dk(fam_F ) $F21A  
+dk(fam_F ) $F21A  + ' ' > dk(fam_F ) $F22   
+dk(fam_F ) $F22   + ' ' > dk(fam_F ) $F23   
+dk(fam_F ) $F23   + ' ' > dk(fam_F ) $F24   
+dk(fam_F ) $F24   + ' ' > dk(fam_F ) $F25   
+dk(fam_F ) $F25   + ' ' > dk(fam_F ) $F26   
+dk(fam_F ) $F26   + ' ' > dk(fam_F ) $F27   
+dk(fam_F ) $F27   + ' ' > dk(fam_F ) $F28   
+dk(fam_F ) $F28   + ' ' > dk(fam_F ) $F29   
+dk(fam_F ) $F29   + ' ' > dk(fam_F ) $F30   
+dk(fam_F ) $F30   + ' ' > dk(fam_F ) $F31   
+dk(fam_F ) $F31   + ' ' > dk(fam_F ) $F31A  
+dk(fam_F ) $F31A  + ' ' > dk(fam_F ) $F32   
+dk(fam_F ) $F32   + ' ' > dk(fam_F ) $F33   
+dk(fam_F ) $F33   + ' ' > dk(fam_F ) $F34   
+dk(fam_F ) $F34   + ' ' > dk(fam_F ) $F35   
+dk(fam_F ) $F35   + ' ' > dk(fam_F ) $F36   
+dk(fam_F ) $F36   + ' ' > dk(fam_F ) $F37   
+dk(fam_F ) $F37   + ' ' > dk(fam_F ) $F37A  
+dk(fam_F ) $F37A  + ' ' > dk(fam_F ) $F38   
+dk(fam_F ) $F38   + ' ' > dk(fam_F ) $F38A  
+dk(fam_F ) $F38A  + ' ' > dk(fam_F ) $F39   
+dk(fam_F ) $F39   + ' ' > dk(fam_F ) $F40   
+dk(fam_F ) $F40   + ' ' > dk(fam_F ) $F41   
+dk(fam_F ) $F41   + ' ' > dk(fam_F ) $F42   
+dk(fam_F ) $F42   + ' ' > dk(fam_F ) $F43   
+dk(fam_F ) $F43   + ' ' > dk(fam_F ) $F44   
+dk(fam_F ) $F44   + ' ' > dk(fam_F ) $F45   
+dk(fam_F ) $F45   + ' ' > dk(fam_F ) $F45A  
+dk(fam_F ) $F45A  + ' ' > dk(fam_F ) $F46   
+dk(fam_F ) $F46   + ' ' > dk(fam_F ) $F46A  
+dk(fam_F ) $F46A  + ' ' > dk(fam_F ) $F47   
+dk(fam_F ) $F47   + ' ' > dk(fam_F ) $F47A  
+dk(fam_F ) $F47A  + ' ' > dk(fam_F ) $F48   
+dk(fam_F ) $F48   + ' ' > dk(fam_F ) $F49   
+dk(fam_F ) $F49   + ' ' > dk(fam_F ) $F50   
+dk(fam_F ) $F50   + ' ' > dk(fam_F ) $F51   
+dk(fam_F ) $F51   + ' ' > dk(fam_F ) $F51A  
+dk(fam_F ) $F51A  + ' ' > dk(fam_F ) $F51B  
+dk(fam_F ) $F51B  + ' ' > dk(fam_F ) $F51C  
+dk(fam_F ) $F51C  + ' ' > dk(fam_F ) $F52   
+dk(fam_F ) $F52   + ' ' > dk(fam_F ) $F53
+
+
+   
+dk(fam_G ) $G54   + ' ' > dk(fam_G ) $G1    
+dk(fam_G ) $G1    + ' ' > dk(fam_G ) $G2    
+dk(fam_G ) $G2    + ' ' > dk(fam_G ) $G3    
+dk(fam_G ) $G3    + ' ' > dk(fam_G ) $G4    
+dk(fam_G ) $G4    + ' ' > dk(fam_G ) $G5    
+dk(fam_G ) $G5    + ' ' > dk(fam_G ) $G6    
+dk(fam_G ) $G6    + ' ' > dk(fam_G ) $G6A   
+dk(fam_G ) $G6A   + ' ' > dk(fam_G ) $G7    
+dk(fam_G ) $G7    + ' ' > dk(fam_G ) $G7A   
+dk(fam_G ) $G7A   + ' ' > dk(fam_G ) $G7B   
+dk(fam_G ) $G7B   + ' ' > dk(fam_G ) $G8    
+dk(fam_G ) $G8    + ' ' > dk(fam_G ) $G9    
+dk(fam_G ) $G9    + ' ' > dk(fam_G ) $G10   
+dk(fam_G ) $G10   + ' ' > dk(fam_G ) $G11   
+dk(fam_G ) $G11   + ' ' > dk(fam_G ) $G11A  
+dk(fam_G ) $G11A  + ' ' > dk(fam_G ) $G12   
+dk(fam_G ) $G12   + ' ' > dk(fam_G ) $G13   
+dk(fam_G ) $G13   + ' ' > dk(fam_G ) $G14   
+dk(fam_G ) $G14   + ' ' > dk(fam_G ) $G15   
+dk(fam_G ) $G15   + ' ' > dk(fam_G ) $G16   
+dk(fam_G ) $G16   + ' ' > dk(fam_G ) $G17   
+dk(fam_G ) $G17   + ' ' > dk(fam_G ) $G18   
+dk(fam_G ) $G18   + ' ' > dk(fam_G ) $G19   
+dk(fam_G ) $G19   + ' ' > dk(fam_G ) $G20   
+dk(fam_G ) $G20   + ' ' > dk(fam_G ) $G20A  
+dk(fam_G ) $G20A  + ' ' > dk(fam_G ) $G21   
+dk(fam_G ) $G21   + ' ' > dk(fam_G ) $G22   
+dk(fam_G ) $G22   + ' ' > dk(fam_G ) $G23   
+dk(fam_G ) $G23   + ' ' > dk(fam_G ) $G24   
+dk(fam_G ) $G24   + ' ' > dk(fam_G ) $G25   
+dk(fam_G ) $G25   + ' ' > dk(fam_G ) $G26   
+dk(fam_G ) $G26   + ' ' > dk(fam_G ) $G26A  
+dk(fam_G ) $G26A  + ' ' > dk(fam_G ) $G27   
+dk(fam_G ) $G27   + ' ' > dk(fam_G ) $G28   
+dk(fam_G ) $G28   + ' ' > dk(fam_G ) $G29   
+dk(fam_G ) $G29   + ' ' > dk(fam_G ) $G30   
+dk(fam_G ) $G30   + ' ' > dk(fam_G ) $G31   
+dk(fam_G ) $G31   + ' ' > dk(fam_G ) $G32   
+dk(fam_G ) $G32   + ' ' > dk(fam_G ) $G33   
+dk(fam_G ) $G33   + ' ' > dk(fam_G ) $G34   
+dk(fam_G ) $G34   + ' ' > dk(fam_G ) $G35   
+dk(fam_G ) $G35   + ' ' > dk(fam_G ) $G36   
+dk(fam_G ) $G36   + ' ' > dk(fam_G ) $G36A  
+dk(fam_G ) $G36A  + ' ' > dk(fam_G ) $G37   
+dk(fam_G ) $G37   + ' ' > dk(fam_G ) $G37A  
+dk(fam_G ) $G37A  + ' ' > dk(fam_G ) $G38   
+dk(fam_G ) $G38   + ' ' > dk(fam_G ) $G39   
+dk(fam_G ) $G39   + ' ' > dk(fam_G ) $G40   
+dk(fam_G ) $G40   + ' ' > dk(fam_G ) $G41   
+dk(fam_G ) $G41   + ' ' > dk(fam_G ) $G42   
+dk(fam_G ) $G42   + ' ' > dk(fam_G ) $G43   
+dk(fam_G ) $G43   + ' ' > dk(fam_G ) $G43A  
+dk(fam_G ) $G43A  + ' ' > dk(fam_G ) $G44   
+dk(fam_G ) $G44   + ' ' > dk(fam_G ) $G45   
+dk(fam_G ) $G45   + ' ' > dk(fam_G ) $G45A  
+dk(fam_G ) $G45A  + ' ' > dk(fam_G ) $G46   
+dk(fam_G ) $G46   + ' ' > dk(fam_G ) $G47   
+dk(fam_G ) $G47   + ' ' > dk(fam_G ) $G48   
+dk(fam_G ) $G48   + ' ' > dk(fam_G ) $G49   
+dk(fam_G ) $G49   + ' ' > dk(fam_G ) $G50   
+dk(fam_G ) $G50   + ' ' > dk(fam_G ) $G51   
+dk(fam_G ) $G51   + ' ' > dk(fam_G ) $G52   
+dk(fam_G ) $G52   + ' ' > dk(fam_G ) $G53   
+dk(fam_G ) $G53   + ' ' > dk(fam_G ) $G54
+
+
+   
+dk(fam_H ) $H8    + ' ' > dk(fam_H ) $H1    
+dk(fam_H ) $H1    + ' ' > dk(fam_H ) $H2    
+dk(fam_H ) $H2    + ' ' > dk(fam_H ) $H3    
+dk(fam_H ) $H3    + ' ' > dk(fam_H ) $H4    
+dk(fam_H ) $H4    + ' ' > dk(fam_H ) $H5    
+dk(fam_H ) $H5    + ' ' > dk(fam_H ) $H6    
+dk(fam_H ) $H6    + ' ' > dk(fam_H ) $H6A   
+dk(fam_H ) $H6A   + ' ' > dk(fam_H ) $H7    
+dk(fam_H ) $H7    + ' ' > dk(fam_H ) $H8  
+
+  
+dk(fam_I ) $I15    + ' ' > dk(fam_I ) $I1   
+dk(fam_I ) $I1    + ' ' > dk(fam_I ) $I2    
+dk(fam_I ) $I2    + ' ' > dk(fam_I ) $I3    
+dk(fam_I ) $I3    + ' ' > dk(fam_I ) $I4    
+dk(fam_I ) $I4    + ' ' > dk(fam_I ) $I5    
+dk(fam_I ) $I5    + ' ' > dk(fam_I ) $I5A   
+dk(fam_I ) $I5A   + ' ' > dk(fam_I ) $I6    
+dk(fam_I ) $I6    + ' ' > dk(fam_I ) $I7    
+dk(fam_I ) $I7    + ' ' > dk(fam_I ) $I8    
+dk(fam_I ) $I8    + ' ' > dk(fam_I ) $I9    
+dk(fam_I ) $I9    + ' ' > dk(fam_I ) $I9A   
+dk(fam_I ) $I9A   + ' ' > dk(fam_I ) $I10   
+dk(fam_I ) $I10   + ' ' > dk(fam_I ) $I10A  
+dk(fam_I ) $I10A  + ' ' > dk(fam_I ) $I11   
+dk(fam_I ) $I11   + ' ' > dk(fam_I ) $I11A  
+dk(fam_I ) $I11A  + ' ' > dk(fam_I ) $I12   
+dk(fam_I ) $I12   + ' ' > dk(fam_I ) $I13   
+dk(fam_I ) $I13   + ' ' > dk(fam_I ) $I14   
+dk(fam_I ) $I14   + ' ' > dk(fam_I ) $I15   
+
+
+dk(fam_K ) $K8    + ' ' > dk(fam_K ) $K1    
+dk(fam_K ) $K1    + ' ' > dk(fam_K ) $K2    
+dk(fam_K ) $K2    + ' ' > dk(fam_K ) $K3    
+dk(fam_K ) $K3    + ' ' > dk(fam_K ) $K4    
+dk(fam_K ) $K4    + ' ' > dk(fam_K ) $K5    
+dk(fam_K ) $K5    + ' ' > dk(fam_K ) $K6    
+dk(fam_K ) $K6    + ' ' > dk(fam_K ) $K7    
+dk(fam_K ) $K7    + ' ' > dk(fam_K ) $K8 
+
+   
+dk(fam_L ) $L8    + ' ' > dk(fam_L ) $L1 
+dk(fam_L ) $L1    + ' ' > dk(fam_L ) $L2    
+dk(fam_L ) $L2    + ' ' > dk(fam_L ) $L2A   
+dk(fam_L ) $L2A   + ' ' > dk(fam_L ) $L3    
+dk(fam_L ) $L3    + ' ' > dk(fam_L ) $L4    
+dk(fam_L ) $L4    + ' ' > dk(fam_L ) $L5    
+dk(fam_L ) $L5    + ' ' > dk(fam_L ) $L6    
+dk(fam_L ) $L6    + ' ' > dk(fam_L ) $L6A   
+dk(fam_L ) $L6A   + ' ' > dk(fam_L ) $L7    
+dk(fam_L ) $L7    + ' ' > dk(fam_L ) $L8   
+
+ 
+dk(fam_M ) $M44   + ' ' > dk(fam_M ) $M1    
+dk(fam_M ) $M1    + ' ' > dk(fam_M ) $M1A   
+dk(fam_M ) $M1A   + ' ' > dk(fam_M ) $M1B   
+dk(fam_M ) $M1B   + ' ' > dk(fam_M ) $M2    
+dk(fam_M ) $M2    + ' ' > dk(fam_M ) $M3    
+dk(fam_M ) $M3    + ' ' > dk(fam_M ) $M3A   
+dk(fam_M ) $M3A   + ' ' > dk(fam_M ) $M4    
+dk(fam_M ) $M4    + ' ' > dk(fam_M ) $M5    
+dk(fam_M ) $M5    + ' ' > dk(fam_M ) $M6    
+dk(fam_M ) $M6    + ' ' > dk(fam_M ) $M7    
+dk(fam_M ) $M7    + ' ' > dk(fam_M ) $M8    
+dk(fam_M ) $M8    + ' ' > dk(fam_M ) $M9    
+dk(fam_M ) $M9    + ' ' > dk(fam_M ) $M10   
+dk(fam_M ) $M10   + ' ' > dk(fam_M ) $M10A  
+dk(fam_M ) $M10A  + ' ' > dk(fam_M ) $M11   
+dk(fam_M ) $M11   + ' ' > dk(fam_M ) $M12   
+dk(fam_M ) $M12   + ' ' > dk(fam_M ) $M12A  
+dk(fam_M ) $M12A  + ' ' > dk(fam_M ) $M12B  
+dk(fam_M ) $M12B  + ' ' > dk(fam_M ) $M12C  
+dk(fam_M ) $M12C  + ' ' > dk(fam_M ) $M12D  
+dk(fam_M ) $M12D  + ' ' > dk(fam_M ) $M12E  
+dk(fam_M ) $M12E  + ' ' > dk(fam_M ) $M12F  
+dk(fam_M ) $M12F  + ' ' > dk(fam_M ) $M12G  
+dk(fam_M ) $M12G  + ' ' > dk(fam_M ) $M12H  
+dk(fam_M ) $M12H  + ' ' > dk(fam_M ) $M13   
+dk(fam_M ) $M13   + ' ' > dk(fam_M ) $M14   
+dk(fam_M ) $M14   + ' ' > dk(fam_M ) $M15   
+dk(fam_M ) $M15   + ' ' > dk(fam_M ) $M15A  
+dk(fam_M ) $M15A  + ' ' > dk(fam_M ) $M16   
+dk(fam_M ) $M16   + ' ' > dk(fam_M ) $M16A  
+dk(fam_M ) $M16A  + ' ' > dk(fam_M ) $M17   
+dk(fam_M ) $M17   + ' ' > dk(fam_M ) $M17A  
+dk(fam_M ) $M17A  + ' ' > dk(fam_M ) $M18   
+dk(fam_M ) $M18   + ' ' > dk(fam_M ) $M19   
+dk(fam_M ) $M19   + ' ' > dk(fam_M ) $M20   
+dk(fam_M ) $M20   + ' ' > dk(fam_M ) $M21   
+dk(fam_M ) $M21   + ' ' > dk(fam_M ) $M22   
+dk(fam_M ) $M22   + ' ' > dk(fam_M ) $M22A  
+dk(fam_M ) $M22A  + ' ' > dk(fam_M ) $M23   
+dk(fam_M ) $M23   + ' ' > dk(fam_M ) $M24   
+dk(fam_M ) $M24   + ' ' > dk(fam_M ) $M24A  
+dk(fam_M ) $M24A  + ' ' > dk(fam_M ) $M25   
+dk(fam_M ) $M25   + ' ' > dk(fam_M ) $M26   
+dk(fam_M ) $M26   + ' ' > dk(fam_M ) $M27   
+dk(fam_M ) $M27   + ' ' > dk(fam_M ) $M28   
+dk(fam_M ) $M28   + ' ' > dk(fam_M ) $M28A  
+dk(fam_M ) $M28A  + ' ' > dk(fam_M ) $M29   
+dk(fam_M ) $M29   + ' ' > dk(fam_M ) $M30   
+dk(fam_M ) $M30   + ' ' > dk(fam_M ) $M31   
+dk(fam_M ) $M31   + ' ' > dk(fam_M ) $M31A  
+dk(fam_M ) $M31A  + ' ' > dk(fam_M ) $M32   
+dk(fam_M ) $M32   + ' ' > dk(fam_M ) $M33   
+dk(fam_M ) $M33   + ' ' > dk(fam_M ) $M33A  
+dk(fam_M ) $M33A  + ' ' > dk(fam_M ) $M33B  
+dk(fam_M ) $M33B  + ' ' > dk(fam_M ) $M34   
+dk(fam_M ) $M34   + ' ' > dk(fam_M ) $M35   
+dk(fam_M ) $M35   + ' ' > dk(fam_M ) $M36   
+dk(fam_M ) $M36   + ' ' > dk(fam_M ) $M37   
+dk(fam_M ) $M37   + ' ' > dk(fam_M ) $M38   
+dk(fam_M ) $M38   + ' ' > dk(fam_M ) $M39   
+dk(fam_M ) $M39   + ' ' > dk(fam_M ) $M40   
+dk(fam_M ) $M40   + ' ' > dk(fam_M ) $M40A  
+dk(fam_M ) $M40A  + ' ' > dk(fam_M ) $M41   
+dk(fam_M ) $M41   + ' ' > dk(fam_M ) $M42   
+dk(fam_M ) $M42   + ' ' > dk(fam_M ) $M43   
+dk(fam_M ) $M43   + ' ' > dk(fam_M ) $M44   
+
+
+
+dk(fam_N ) $N42   + ' ' > dk(fam_N ) $N1    
+dk(fam_N ) $N1    + ' ' > dk(fam_N ) $N2    
+dk(fam_N ) $N2    + ' ' > dk(fam_N ) $N3    
+dk(fam_N ) $N3    + ' ' > dk(fam_N ) $N4    
+dk(fam_N ) $N4    + ' ' > dk(fam_N ) $N5    
+dk(fam_N ) $N5    + ' ' > dk(fam_N ) $N6    
+dk(fam_N ) $N6    + ' ' > dk(fam_N ) $N7    
+dk(fam_N ) $N7    + ' ' > dk(fam_N ) $N8    
+dk(fam_N ) $N8    + ' ' > dk(fam_N ) $N9    
+dk(fam_N ) $N9    + ' ' > dk(fam_N ) $N10   
+dk(fam_N ) $N10   + ' ' > dk(fam_N ) $N11   
+dk(fam_N ) $N11   + ' ' > dk(fam_N ) $N12   
+dk(fam_N ) $N12   + ' ' > dk(fam_N ) $N13   
+dk(fam_N ) $N13   + ' ' > dk(fam_N ) $N14   
+dk(fam_N ) $N14   + ' ' > dk(fam_N ) $N15   
+dk(fam_N ) $N15   + ' ' > dk(fam_N ) $N16   
+dk(fam_N ) $N16   + ' ' > dk(fam_N ) $N17   
+dk(fam_N ) $N17   + ' ' > dk(fam_N ) $N18   
+dk(fam_N ) $N18   + ' ' > dk(fam_N ) $N18A  
+dk(fam_N ) $N18A  + ' ' > dk(fam_N ) $N18B  
+dk(fam_N ) $N18B  + ' ' > dk(fam_N ) $N19   
+dk(fam_N ) $N19   + ' ' > dk(fam_N ) $N20   
+dk(fam_N ) $N20   + ' ' > dk(fam_N ) $N21   
+dk(fam_N ) $N21   + ' ' > dk(fam_N ) $N22   
+dk(fam_N ) $N22   + ' ' > dk(fam_N ) $N23   
+dk(fam_N ) $N23   + ' ' > dk(fam_N ) $N24   
+dk(fam_N ) $N24   + ' ' > dk(fam_N ) $N25   
+dk(fam_N ) $N25   + ' ' > dk(fam_N ) $N25A  
+dk(fam_N ) $N25A  + ' ' > dk(fam_N ) $N26   
+dk(fam_N ) $N26   + ' ' > dk(fam_N ) $N27   
+dk(fam_N ) $N27   + ' ' > dk(fam_N ) $N28   
+dk(fam_N ) $N28   + ' ' > dk(fam_N ) $N29   
+dk(fam_N ) $N29   + ' ' > dk(fam_N ) $N30   
+dk(fam_N ) $N30   + ' ' > dk(fam_N ) $N31   
+dk(fam_N ) $N31   + ' ' > dk(fam_N ) $N32   
+dk(fam_N ) $N32   + ' ' > dk(fam_N ) $N33   
+dk(fam_N ) $N33   + ' ' > dk(fam_N ) $N33A  
+dk(fam_N ) $N33A  + ' ' > dk(fam_N ) $N34   
+dk(fam_N ) $N34   + ' ' > dk(fam_N ) $N34A  
+dk(fam_N ) $N34A  + ' ' > dk(fam_N ) $N35   
+dk(fam_N ) $N35   + ' ' > dk(fam_N ) $N35A  
+dk(fam_N ) $N35A  + ' ' > dk(fam_N ) $N36   
+dk(fam_N ) $N36   + ' ' > dk(fam_N ) $N37   
+dk(fam_N ) $N37   + ' ' > dk(fam_N ) $N37A  
+dk(fam_N ) $N37A  + ' ' > dk(fam_N ) $N38   
+dk(fam_N ) $N38   + ' ' > dk(fam_N ) $N39   
+dk(fam_N ) $N39   + ' ' > dk(fam_N ) $N40   
+dk(fam_N ) $N40   + ' ' > dk(fam_N ) $N41   
+dk(fam_N ) $N41   + ' ' > dk(fam_N ) $N42  
+
+
+ 
+dk(fam_NL) $NL20   + ' ' > dk(fam_NL) $NL1   
+dk(fam_NL) $NL1   + ' ' > dk(fam_NL) $NL2   
+dk(fam_NL) $NL2   + ' ' > dk(fam_NL) $NL3   
+dk(fam_NL) $NL3   + ' ' > dk(fam_NL) $NL4   
+dk(fam_NL) $NL4   + ' ' > dk(fam_NL) $NL5   
+dk(fam_NL) $NL5   + ' ' > dk(fam_NL) $NL5A  
+dk(fam_NL) $NL5A  + ' ' > dk(fam_NL) $NL6   
+dk(fam_NL) $NL6   + ' ' > dk(fam_NL) $NL7   
+dk(fam_NL) $NL7   + ' ' > dk(fam_NL) $NL8   
+dk(fam_NL) $NL8   + ' ' > dk(fam_NL) $NL9   
+dk(fam_NL) $NL9   + ' ' > dk(fam_NL) $NL10  
+dk(fam_NL) $NL10  + ' ' > dk(fam_NL) $NL11  
+dk(fam_NL) $NL11  + ' ' > dk(fam_NL) $NL12  
+dk(fam_NL) $NL12  + ' ' > dk(fam_NL) $NL13  
+dk(fam_NL) $NL13  + ' ' > dk(fam_NL) $NL14  
+dk(fam_NL) $NL14  + ' ' > dk(fam_NL) $NL15  
+dk(fam_NL) $NL15  + ' ' > dk(fam_NL) $NL16  
+dk(fam_NL) $NL16  + ' ' > dk(fam_NL) $NL17  
+dk(fam_NL) $NL17  + ' ' > dk(fam_NL) $NL17A 
+dk(fam_NL) $NL17A + ' ' > dk(fam_NL) $NL18  
+dk(fam_NL) $NL18  + ' ' > dk(fam_NL) $NL19  
+dk(fam_NL) $NL19  + ' ' > dk(fam_NL) $NL20 
+
+ 
+dk(fam_NU) $NU22A  + ' ' > dk(fam_NU) $NU1   
+dk(fam_NU) $NU1   + ' ' > dk(fam_NU) $NU2   
+dk(fam_NU) $NU2   + ' ' > dk(fam_NU) $NU3   
+dk(fam_NU) $NU3   + ' ' > dk(fam_NU) $NU4   
+dk(fam_NU) $NU4   + ' ' > dk(fam_NU) $NU5   
+dk(fam_NU) $NU5   + ' ' > dk(fam_NU) $NU6   
+dk(fam_NU) $NU6   + ' ' > dk(fam_NU) $NU7   
+dk(fam_NU) $NU7   + ' ' > dk(fam_NU) $NU8   
+dk(fam_NU) $NU8   + ' ' > dk(fam_NU) $NU9   
+dk(fam_NU) $NU9   + ' ' > dk(fam_NU) $NU10  
+dk(fam_NU) $NU10  + ' ' > dk(fam_NU) $NU10A 
+dk(fam_NU) $NU10A + ' ' > dk(fam_NU) $NU11  
+dk(fam_NU) $NU11  + ' ' > dk(fam_NU) $NU11A 
+dk(fam_NU) $NU11A + ' ' > dk(fam_NU) $NU12  
+dk(fam_NU) $NU12  + ' ' > dk(fam_NU) $NU13  
+dk(fam_NU) $NU13  + ' ' > dk(fam_NU) $NU14  
+dk(fam_NU) $NU14  + ' ' > dk(fam_NU) $NU15  
+dk(fam_NU) $NU15  + ' ' > dk(fam_NU) $NU16  
+dk(fam_NU) $NU16  + ' ' > dk(fam_NU) $NU17  
+dk(fam_NU) $NU17  + ' ' > dk(fam_NU) $NU18  
+dk(fam_NU) $NU18  + ' ' > dk(fam_NU) $NU18A 
+dk(fam_NU) $NU18A + ' ' > dk(fam_NU) $NU19  
+dk(fam_NU) $NU19  + ' ' > dk(fam_NU) $NU20  
+dk(fam_NU) $NU20  + ' ' > dk(fam_NU) $NU21  
+dk(fam_NU) $NU21  + ' ' > dk(fam_NU) $NU22  
+dk(fam_NU) $NU22  + ' ' > dk(fam_NU) $NU22A  
+
+
+dk(fam_O ) $O51   + ' ' > dk(fam_O ) $O1    
+dk(fam_O ) $O1    + ' ' > dk(fam_O ) $O1A   
+dk(fam_O ) $O1A   + ' ' > dk(fam_O ) $O2    
+dk(fam_O ) $O2    + ' ' > dk(fam_O ) $O3    
+dk(fam_O ) $O3    + ' ' > dk(fam_O ) $O4    
+dk(fam_O ) $O4    + ' ' > dk(fam_O ) $O5    
+dk(fam_O ) $O5    + ' ' > dk(fam_O ) $O5A   
+dk(fam_O ) $O5A   + ' ' > dk(fam_O ) $O6    
+dk(fam_O ) $O6    + ' ' > dk(fam_O ) $O6A   
+dk(fam_O ) $O6A   + ' ' > dk(fam_O ) $O6B   
+dk(fam_O ) $O6B   + ' ' > dk(fam_O ) $O6C   
+dk(fam_O ) $O6C   + ' ' > dk(fam_O ) $O6D   
+dk(fam_O ) $O6D   + ' ' > dk(fam_O ) $O6E   
+dk(fam_O ) $O6E   + ' ' > dk(fam_O ) $O6F   
+dk(fam_O ) $O6F   + ' ' > dk(fam_O ) $O7    
+dk(fam_O ) $O7    + ' ' > dk(fam_O ) $O8    
+dk(fam_O ) $O8    + ' ' > dk(fam_O ) $O9    
+dk(fam_O ) $O9    + ' ' > dk(fam_O ) $O10   
+dk(fam_O ) $O10   + ' ' > dk(fam_O ) $O10A  
+dk(fam_O ) $O10A  + ' ' > dk(fam_O ) $O10B  
+dk(fam_O ) $O10B  + ' ' > dk(fam_O ) $O10C  
+dk(fam_O ) $O10C  + ' ' > dk(fam_O ) $O11   
+dk(fam_O ) $O11   + ' ' > dk(fam_O ) $O12   
+dk(fam_O ) $O12   + ' ' > dk(fam_O ) $O13   
+dk(fam_O ) $O13   + ' ' > dk(fam_O ) $O14   
+dk(fam_O ) $O14   + ' ' > dk(fam_O ) $O15   
+dk(fam_O ) $O15   + ' ' > dk(fam_O ) $O16   
+dk(fam_O ) $O16   + ' ' > dk(fam_O ) $O17   
+dk(fam_O ) $O17   + ' ' > dk(fam_O ) $O18   
+dk(fam_O ) $O18   + ' ' > dk(fam_O ) $O19   
+dk(fam_O ) $O19   + ' ' > dk(fam_O ) $O19A  
+dk(fam_O ) $O19A  + ' ' > dk(fam_O ) $O20   
+dk(fam_O ) $O20   + ' ' > dk(fam_O ) $O20A  
+dk(fam_O ) $O20A  + ' ' > dk(fam_O ) $O21   
+dk(fam_O ) $O21   + ' ' > dk(fam_O ) $O22   
+dk(fam_O ) $O22   + ' ' > dk(fam_O ) $O23   
+dk(fam_O ) $O23   + ' ' > dk(fam_O ) $O24   
+dk(fam_O ) $O24   + ' ' > dk(fam_O ) $O24A  
+dk(fam_O ) $O24A  + ' ' > dk(fam_O ) $O25   
+dk(fam_O ) $O25   + ' ' > dk(fam_O ) $O25A  
+dk(fam_O ) $O25A  + ' ' > dk(fam_O ) $O26   
+dk(fam_O ) $O26   + ' ' > dk(fam_O ) $O27   
+dk(fam_O ) $O27   + ' ' > dk(fam_O ) $O28   
+dk(fam_O ) $O28   + ' ' > dk(fam_O ) $O29   
+dk(fam_O ) $O29   + ' ' > dk(fam_O ) $O29A  
+dk(fam_O ) $O29A  + ' ' > dk(fam_O ) $O30   
+dk(fam_O ) $O30   + ' ' > dk(fam_O ) $O30A  
+dk(fam_O ) $O30A  + ' ' > dk(fam_O ) $O31   
+dk(fam_O ) $O31   + ' ' > dk(fam_O ) $O32   
+dk(fam_O ) $O32   + ' ' > dk(fam_O ) $O33   
+dk(fam_O ) $O33   + ' ' > dk(fam_O ) $O33A  
+dk(fam_O ) $O33A  + ' ' > dk(fam_O ) $O34   
+dk(fam_O ) $O34   + ' ' > dk(fam_O ) $O35   
+dk(fam_O ) $O35   + ' ' > dk(fam_O ) $O36   
+dk(fam_O ) $O36   + ' ' > dk(fam_O ) $O36A  
+dk(fam_O ) $O36A  + ' ' > dk(fam_O ) $O36B  
+dk(fam_O ) $O36B  + ' ' > dk(fam_O ) $O36C  
+dk(fam_O ) $O36C  + ' ' > dk(fam_O ) $O36D  
+dk(fam_O ) $O36D  + ' ' > dk(fam_O ) $O37   
+dk(fam_O ) $O37   + ' ' > dk(fam_O ) $O38   
+dk(fam_O ) $O38   + ' ' > dk(fam_O ) $O39   
+dk(fam_O ) $O39   + ' ' > dk(fam_O ) $O40   
+dk(fam_O ) $O40   + ' ' > dk(fam_O ) $O41   
+dk(fam_O ) $O41   + ' ' > dk(fam_O ) $O42   
+dk(fam_O ) $O42   + ' ' > dk(fam_O ) $O43   
+dk(fam_O ) $O43   + ' ' > dk(fam_O ) $O44   
+dk(fam_O ) $O44   + ' ' > dk(fam_O ) $O45   
+dk(fam_O ) $O45   + ' ' > dk(fam_O ) $O46   
+dk(fam_O ) $O46   + ' ' > dk(fam_O ) $O47   
+dk(fam_O ) $O47   + ' ' > dk(fam_O ) $O48   
+dk(fam_O ) $O48   + ' ' > dk(fam_O ) $O49   
+dk(fam_O ) $O49   + ' ' > dk(fam_O ) $O50   
+dk(fam_O ) $O50   + ' ' > dk(fam_O ) $O50A  
+dk(fam_O ) $O50A  + ' ' > dk(fam_O ) $O50B  
+dk(fam_O ) $O50B  + ' ' > dk(fam_O ) $O51   
+
+
+dk(fam_P ) $P11   + ' ' > dk(fam_P ) $P1    
+dk(fam_P ) $P1    + ' ' > dk(fam_P ) $P1A   
+dk(fam_P ) $P1A   + ' ' > dk(fam_P ) $P2    
+dk(fam_P ) $P2    + ' ' > dk(fam_P ) $P3    
+dk(fam_P ) $P3    + ' ' > dk(fam_P ) $P3A   
+dk(fam_P ) $P3A   + ' ' > dk(fam_P ) $P4    
+dk(fam_P ) $P4    + ' ' > dk(fam_P ) $P5    
+dk(fam_P ) $P5    + ' ' > dk(fam_P ) $P6    
+dk(fam_P ) $P6    + ' ' > dk(fam_P ) $P7    
+dk(fam_P ) $P7    + ' ' > dk(fam_P ) $P8    
+dk(fam_P ) $P8    + ' ' > dk(fam_P ) $P9    
+dk(fam_P ) $P9    + ' ' > dk(fam_P ) $P10   
+dk(fam_P ) $P10   + ' ' > dk(fam_P ) $P11 
+
+  
+dk(fam_Q ) $Q7   + ' ' > dk(fam_Q ) $Q1    
+dk(fam_Q ) $Q1    + ' ' > dk(fam_Q ) $Q2    
+dk(fam_Q ) $Q2    + ' ' > dk(fam_Q ) $Q3    
+dk(fam_Q ) $Q3    + ' ' > dk(fam_Q ) $Q4    
+dk(fam_Q ) $Q4    + ' ' > dk(fam_Q ) $Q5    
+dk(fam_Q ) $Q5    + ' ' > dk(fam_Q ) $Q6    
+dk(fam_Q ) $Q6    + ' ' > dk(fam_Q ) $Q7 
+
+   
+dk(fam_R ) $R29    + ' ' > dk(fam_R ) $R1    
+dk(fam_R ) $R1    + ' ' > dk(fam_R ) $R2    
+dk(fam_R ) $R2    + ' ' > dk(fam_R ) $R2A   
+dk(fam_R ) $R2A   + ' ' > dk(fam_R ) $R3    
+dk(fam_R ) $R3    + ' ' > dk(fam_R ) $R3A   
+dk(fam_R ) $R3A   + ' ' > dk(fam_R ) $R3B   
+dk(fam_R ) $R3B   + ' ' > dk(fam_R ) $R4    
+dk(fam_R ) $R4    + ' ' > dk(fam_R ) $R5    
+dk(fam_R ) $R5    + ' ' > dk(fam_R ) $R6    
+dk(fam_R ) $R6    + ' ' > dk(fam_R ) $R7    
+dk(fam_R ) $R7    + ' ' > dk(fam_R ) $R8    
+dk(fam_R ) $R8    + ' ' > dk(fam_R ) $R9    
+dk(fam_R ) $R9    + ' ' > dk(fam_R ) $R10   
+dk(fam_R ) $R10   + ' ' > dk(fam_R ) $R10A  
+dk(fam_R ) $R10A  + ' ' > dk(fam_R ) $R11   
+dk(fam_R ) $R11   + ' ' > dk(fam_R ) $R12   
+dk(fam_R ) $R12   + ' ' > dk(fam_R ) $R13   
+dk(fam_R ) $R13   + ' ' > dk(fam_R ) $R14   
+dk(fam_R ) $R14   + ' ' > dk(fam_R ) $R15   
+dk(fam_R ) $R15   + ' ' > dk(fam_R ) $R16   
+dk(fam_R ) $R16   + ' ' > dk(fam_R ) $R16A  
+dk(fam_R ) $R16A  + ' ' > dk(fam_R ) $R17   
+dk(fam_R ) $R17   + ' ' > dk(fam_R ) $R18   
+dk(fam_R ) $R18   + ' ' > dk(fam_R ) $R19   
+dk(fam_R ) $R19   + ' ' > dk(fam_R ) $R20   
+dk(fam_R ) $R20   + ' ' > dk(fam_R ) $R21   
+dk(fam_R ) $R21   + ' ' > dk(fam_R ) $R22   
+dk(fam_R ) $R22   + ' ' > dk(fam_R ) $R23   
+dk(fam_R ) $R23   + ' ' > dk(fam_R ) $R24   
+dk(fam_R ) $R24   + ' ' > dk(fam_R ) $R25   
+dk(fam_R ) $R25   + ' ' > dk(fam_R ) $R26   
+dk(fam_R ) $R26   + ' ' > dk(fam_R ) $R27   
+dk(fam_R ) $R27   + ' ' > dk(fam_R ) $R28   
+dk(fam_R ) $R28   + ' ' > dk(fam_R ) $R29  
+
+
+ 
+dk(fam_S ) $S46   + ' ' > dk(fam_S ) $S1    
+dk(fam_S ) $S1    + ' ' > dk(fam_S ) $S2    
+dk(fam_S ) $S2    + ' ' > dk(fam_S ) $S2A   
+dk(fam_S ) $S2A   + ' ' > dk(fam_S ) $S3    
+dk(fam_S ) $S3    + ' ' > dk(fam_S ) $S4    
+dk(fam_S ) $S4    + ' ' > dk(fam_S ) $S5    
+dk(fam_S ) $S5    + ' ' > dk(fam_S ) $S6    
+dk(fam_S ) $S6    + ' ' > dk(fam_S ) $S6A   
+dk(fam_S ) $S6A   + ' ' > dk(fam_S ) $S7    
+dk(fam_S ) $S7    + ' ' > dk(fam_S ) $S8    
+dk(fam_S ) $S8    + ' ' > dk(fam_S ) $S9    
+dk(fam_S ) $S9    + ' ' > dk(fam_S ) $S10   
+dk(fam_S ) $S10   + ' ' > dk(fam_S ) $S11   
+dk(fam_S ) $S11   + ' ' > dk(fam_S ) $S12   
+dk(fam_S ) $S12   + ' ' > dk(fam_S ) $S13   
+dk(fam_S ) $S13   + ' ' > dk(fam_S ) $S14   
+dk(fam_S ) $S14   + ' ' > dk(fam_S ) $S14A  
+dk(fam_S ) $S14A  + ' ' > dk(fam_S ) $S14B  
+dk(fam_S ) $S14B  + ' ' > dk(fam_S ) $S15   
+dk(fam_S ) $S15   + ' ' > dk(fam_S ) $S16   
+dk(fam_S ) $S16   + ' ' > dk(fam_S ) $S17   
+dk(fam_S ) $S17   + ' ' > dk(fam_S ) $S17A  
+dk(fam_S ) $S17A  + ' ' > dk(fam_S ) $S18   
+dk(fam_S ) $S18   + ' ' > dk(fam_S ) $S19   
+dk(fam_S ) $S19   + ' ' > dk(fam_S ) $S20   
+dk(fam_S ) $S20   + ' ' > dk(fam_S ) $S21   
+dk(fam_S ) $S21   + ' ' > dk(fam_S ) $S22   
+dk(fam_S ) $S22   + ' ' > dk(fam_S ) $S23   
+dk(fam_S ) $S23   + ' ' > dk(fam_S ) $S24   
+dk(fam_S ) $S24   + ' ' > dk(fam_S ) $S25   
+dk(fam_S ) $S25   + ' ' > dk(fam_S ) $S26   
+dk(fam_S ) $S26   + ' ' > dk(fam_S ) $S26A  
+dk(fam_S ) $S26A  + ' ' > dk(fam_S ) $S26B  
+dk(fam_S ) $S26B  + ' ' > dk(fam_S ) $S27   
+dk(fam_S ) $S27   + ' ' > dk(fam_S ) $S28   
+dk(fam_S ) $S28   + ' ' > dk(fam_S ) $S29   
+dk(fam_S ) $S29   + ' ' > dk(fam_S ) $S30   
+dk(fam_S ) $S30   + ' ' > dk(fam_S ) $S31   
+dk(fam_S ) $S31   + ' ' > dk(fam_S ) $S32   
+dk(fam_S ) $S32   + ' ' > dk(fam_S ) $S33   
+dk(fam_S ) $S33   + ' ' > dk(fam_S ) $S34   
+dk(fam_S ) $S34   + ' ' > dk(fam_S ) $S35   
+dk(fam_S ) $S35   + ' ' > dk(fam_S ) $S35A  
+dk(fam_S ) $S35A  + ' ' > dk(fam_S ) $S36   
+dk(fam_S ) $S36   + ' ' > dk(fam_S ) $S37   
+dk(fam_S ) $S37   + ' ' > dk(fam_S ) $S38   
+dk(fam_S ) $S38   + ' ' > dk(fam_S ) $S39   
+dk(fam_S ) $S39   + ' ' > dk(fam_S ) $S40   
+dk(fam_S ) $S40   + ' ' > dk(fam_S ) $S41   
+dk(fam_S ) $S41   + ' ' > dk(fam_S ) $S42   
+dk(fam_S ) $S42   + ' ' > dk(fam_S ) $S43   
+dk(fam_S ) $S43   + ' ' > dk(fam_S ) $S44   
+dk(fam_S ) $S44   + ' ' > dk(fam_S ) $S45   
+dk(fam_S ) $S45   + ' ' > dk(fam_S ) $S46  
+
+
+ 
+dk(fam_T ) $T36   + ' ' > dk(fam_T ) $T1    
+dk(fam_T ) $T1    + ' ' > dk(fam_T ) $T2    
+dk(fam_T ) $T2    + ' ' > dk(fam_T ) $T3    
+dk(fam_T ) $T3    + ' ' > dk(fam_T ) $T3A   
+dk(fam_T ) $T3A   + ' ' > dk(fam_T ) $T4    
+dk(fam_T ) $T4    + ' ' > dk(fam_T ) $T5    
+dk(fam_T ) $T5    + ' ' > dk(fam_T ) $T6    
+dk(fam_T ) $T6    + ' ' > dk(fam_T ) $T7    
+dk(fam_T ) $T7    + ' ' > dk(fam_T ) $T7A   
+dk(fam_T ) $T7A   + ' ' > dk(fam_T ) $T8    
+dk(fam_T ) $T8    + ' ' > dk(fam_T ) $T8A   
+dk(fam_T ) $T8A   + ' ' > dk(fam_T ) $T9    
+dk(fam_T ) $T9    + ' ' > dk(fam_T ) $T9A   
+dk(fam_T ) $T9A   + ' ' > dk(fam_T ) $T10   
+dk(fam_T ) $T10   + ' ' > dk(fam_T ) $T11   
+dk(fam_T ) $T11   + ' ' > dk(fam_T ) $T11A  
+dk(fam_T ) $T11A  + ' ' > dk(fam_T ) $T12   
+dk(fam_T ) $T12   + ' ' > dk(fam_T ) $T13   
+dk(fam_T ) $T13   + ' ' > dk(fam_T ) $T14   
+dk(fam_T ) $T14   + ' ' > dk(fam_T ) $T15   
+dk(fam_T ) $T15   + ' ' > dk(fam_T ) $T16   
+dk(fam_T ) $T16   + ' ' > dk(fam_T ) $T16A  
+dk(fam_T ) $T16A  + ' ' > dk(fam_T ) $T17   
+dk(fam_T ) $T17   + ' ' > dk(fam_T ) $T18   
+dk(fam_T ) $T18   + ' ' > dk(fam_T ) $T19   
+dk(fam_T ) $T19   + ' ' > dk(fam_T ) $T20   
+dk(fam_T ) $T20   + ' ' > dk(fam_T ) $T21   
+dk(fam_T ) $T21   + ' ' > dk(fam_T ) $T22   
+dk(fam_T ) $T22   + ' ' > dk(fam_T ) $T23   
+dk(fam_T ) $T23   + ' ' > dk(fam_T ) $T24   
+dk(fam_T ) $T24   + ' ' > dk(fam_T ) $T25   
+dk(fam_T ) $T25   + ' ' > dk(fam_T ) $T26   
+dk(fam_T ) $T26   + ' ' > dk(fam_T ) $T27   
+dk(fam_T ) $T27   + ' ' > dk(fam_T ) $T28   
+dk(fam_T ) $T28   + ' ' > dk(fam_T ) $T29   
+dk(fam_T ) $T29   + ' ' > dk(fam_T ) $T30   
+dk(fam_T ) $T30   + ' ' > dk(fam_T ) $T31   
+dk(fam_T ) $T31   + ' ' > dk(fam_T ) $T32   
+dk(fam_T ) $T32   + ' ' > dk(fam_T ) $T32A  
+dk(fam_T ) $T32A  + ' ' > dk(fam_T ) $T33   
+dk(fam_T ) $T33   + ' ' > dk(fam_T ) $T33A  
+dk(fam_T ) $T33A  + ' ' > dk(fam_T ) $T34   
+dk(fam_T ) $T34   + ' ' > dk(fam_T ) $T35   
+dk(fam_T ) $T35   + ' ' > dk(fam_T ) $T36  
+
+
+ 
+dk(fam_U ) $U42   + ' ' > dk(fam_U ) $U1    
+dk(fam_U ) $U1    + ' ' > dk(fam_U ) $U2    
+dk(fam_U ) $U2    + ' ' > dk(fam_U ) $U3    
+dk(fam_U ) $U3    + ' ' > dk(fam_U ) $U4    
+dk(fam_U ) $U4    + ' ' > dk(fam_U ) $U5    
+dk(fam_U ) $U5    + ' ' > dk(fam_U ) $U6    
+dk(fam_U ) $U6    + ' ' > dk(fam_U ) $U6A   
+dk(fam_U ) $U6A   + ' ' > dk(fam_U ) $U6B   
+dk(fam_U ) $U6B   + ' ' > dk(fam_U ) $U7    
+dk(fam_U ) $U7    + ' ' > dk(fam_U ) $U8    
+dk(fam_U ) $U8    + ' ' > dk(fam_U ) $U9    
+dk(fam_U ) $U9    + ' ' > dk(fam_U ) $U10   
+dk(fam_U ) $U10   + ' ' > dk(fam_U ) $U11   
+dk(fam_U ) $U11   + ' ' > dk(fam_U ) $U12   
+dk(fam_U ) $U12   + ' ' > dk(fam_U ) $U13   
+dk(fam_U ) $U13   + ' ' > dk(fam_U ) $U14   
+dk(fam_U ) $U14   + ' ' > dk(fam_U ) $U15   
+dk(fam_U ) $U15   + ' ' > dk(fam_U ) $U16   
+dk(fam_U ) $U16   + ' ' > dk(fam_U ) $U17   
+dk(fam_U ) $U17   + ' ' > dk(fam_U ) $U18   
+dk(fam_U ) $U18   + ' ' > dk(fam_U ) $U19   
+dk(fam_U ) $U19   + ' ' > dk(fam_U ) $U20   
+dk(fam_U ) $U20   + ' ' > dk(fam_U ) $U21   
+dk(fam_U ) $U21   + ' ' > dk(fam_U ) $U22   
+dk(fam_U ) $U22   + ' ' > dk(fam_U ) $U23   
+dk(fam_U ) $U23   + ' ' > dk(fam_U ) $U23A  
+dk(fam_U ) $U23A  + ' ' > dk(fam_U ) $U24   
+dk(fam_U ) $U24   + ' ' > dk(fam_U ) $U25   
+dk(fam_U ) $U25   + ' ' > dk(fam_U ) $U26   
+dk(fam_U ) $U26   + ' ' > dk(fam_U ) $U27   
+dk(fam_U ) $U27   + ' ' > dk(fam_U ) $U28   
+dk(fam_U ) $U28   + ' ' > dk(fam_U ) $U29   
+dk(fam_U ) $U29   + ' ' > dk(fam_U ) $U29A  
+dk(fam_U ) $U29A  + ' ' > dk(fam_U ) $U30   
+dk(fam_U ) $U30   + ' ' > dk(fam_U ) $U31   
+dk(fam_U ) $U31   + ' ' > dk(fam_U ) $U32   
+dk(fam_U ) $U32   + ' ' > dk(fam_U ) $U32A  
+dk(fam_U ) $U32A  + ' ' > dk(fam_U ) $U33   
+dk(fam_U ) $U33   + ' ' > dk(fam_U ) $U34   
+dk(fam_U ) $U34   + ' ' > dk(fam_U ) $U35   
+dk(fam_U ) $U35   + ' ' > dk(fam_U ) $U36   
+dk(fam_U ) $U36   + ' ' > dk(fam_U ) $U37   
+dk(fam_U ) $U37   + ' ' > dk(fam_U ) $U38   
+dk(fam_U ) $U38   + ' ' > dk(fam_U ) $U39   
+dk(fam_U ) $U39   + ' ' > dk(fam_U ) $U40   
+dk(fam_U ) $U40   + ' ' > dk(fam_U ) $U41   
+dk(fam_U ) $U41   + ' ' > dk(fam_U ) $U42  
+
+
+ 
+dk(fam_V ) $V40A  + ' ' > dk(fam_V ) $V1    
+dk(fam_V ) $V1    + ' ' > dk(fam_V ) $V1A   
+dk(fam_V ) $V1A   + ' ' > dk(fam_V ) $V1B   
+dk(fam_V ) $V1B   + ' ' > dk(fam_V ) $V1C   
+dk(fam_V ) $V1C   + ' ' > dk(fam_V ) $V1D   
+dk(fam_V ) $V1D   + ' ' > dk(fam_V ) $V1E   
+dk(fam_V ) $V1E   + ' ' > dk(fam_V ) $V1F   
+dk(fam_V ) $V1F   + ' ' > dk(fam_V ) $V1G   
+dk(fam_V ) $V1G   + ' ' > dk(fam_V ) $V1H   
+dk(fam_V ) $V1H   + ' ' > dk(fam_V ) $V1I   
+dk(fam_V ) $V1I   + ' ' > dk(fam_V ) $V2    
+dk(fam_V ) $V2    + ' ' > dk(fam_V ) $V2A   
+dk(fam_V ) $V2A   + ' ' > dk(fam_V ) $V3    
+dk(fam_V ) $V3    + ' ' > dk(fam_V ) $V4    
+dk(fam_V ) $V4    + ' ' > dk(fam_V ) $V5    
+dk(fam_V ) $V5    + ' ' > dk(fam_V ) $V6    
+dk(fam_V ) $V6    + ' ' > dk(fam_V ) $V7    
+dk(fam_V ) $V7    + ' ' > dk(fam_V ) $V7A   
+dk(fam_V ) $V7A   + ' ' > dk(fam_V ) $V7B   
+dk(fam_V ) $V7B   + ' ' > dk(fam_V ) $V8    
+dk(fam_V ) $V8    + ' ' > dk(fam_V ) $V9    
+dk(fam_V ) $V9    + ' ' > dk(fam_V ) $V10   
+dk(fam_V ) $V10   + ' ' > dk(fam_V ) $V11   
+dk(fam_V ) $V11   + ' ' > dk(fam_V ) $V11A  
+dk(fam_V ) $V11A  + ' ' > dk(fam_V ) $V11B  
+dk(fam_V ) $V11B  + ' ' > dk(fam_V ) $V11C  
+dk(fam_V ) $V11C  + ' ' > dk(fam_V ) $V12   
+dk(fam_V ) $V12   + ' ' > dk(fam_V ) $V12A  
+dk(fam_V ) $V12A  + ' ' > dk(fam_V ) $V12B  
+dk(fam_V ) $V12B  + ' ' > dk(fam_V ) $V13   
+dk(fam_V ) $V13   + ' ' > dk(fam_V ) $V14   
+dk(fam_V ) $V14   + ' ' > dk(fam_V ) $V15   
+dk(fam_V ) $V15   + ' ' > dk(fam_V ) $V16   
+dk(fam_V ) $V16   + ' ' > dk(fam_V ) $V17   
+dk(fam_V ) $V17   + ' ' > dk(fam_V ) $V18   
+dk(fam_V ) $V18   + ' ' > dk(fam_V ) $V19   
+dk(fam_V ) $V19   + ' ' > dk(fam_V ) $V20   
+dk(fam_V ) $V20   + ' ' > dk(fam_V ) $V20A  
+dk(fam_V ) $V20A  + ' ' > dk(fam_V ) $V20B  
+dk(fam_V ) $V20B  + ' ' > dk(fam_V ) $V20C  
+dk(fam_V ) $V20C  + ' ' > dk(fam_V ) $V20D  
+dk(fam_V ) $V20D  + ' ' > dk(fam_V ) $V20E  
+dk(fam_V ) $V20E  + ' ' > dk(fam_V ) $V20F  
+dk(fam_V ) $V20F  + ' ' > dk(fam_V ) $V20G  
+dk(fam_V ) $V20G  + ' ' > dk(fam_V ) $V20H  
+dk(fam_V ) $V20H  + ' ' > dk(fam_V ) $V20I  
+dk(fam_V ) $V20I  + ' ' > dk(fam_V ) $V20J  
+dk(fam_V ) $V20J  + ' ' > dk(fam_V ) $V20K  
+dk(fam_V ) $V20K  + ' ' > dk(fam_V ) $V20L  
+dk(fam_V ) $V20L  + ' ' > dk(fam_V ) $V21   
+dk(fam_V ) $V21   + ' ' > dk(fam_V ) $V22   
+dk(fam_V ) $V22   + ' ' > dk(fam_V ) $V23   
+dk(fam_V ) $V23   + ' ' > dk(fam_V ) $V23A  
+dk(fam_V ) $V23A  + ' ' > dk(fam_V ) $V24   
+dk(fam_V ) $V24   + ' ' > dk(fam_V ) $V25   
+dk(fam_V ) $V25   + ' ' > dk(fam_V ) $V26   
+dk(fam_V ) $V26   + ' ' > dk(fam_V ) $V27   
+dk(fam_V ) $V27   + ' ' > dk(fam_V ) $V28   
+dk(fam_V ) $V28   + ' ' > dk(fam_V ) $V28A  
+dk(fam_V ) $V28A  + ' ' > dk(fam_V ) $V29   
+dk(fam_V ) $V29   + ' ' > dk(fam_V ) $V29A  
+dk(fam_V ) $V29A  + ' ' > dk(fam_V ) $V30   
+dk(fam_V ) $V30   + ' ' > dk(fam_V ) $V30A  
+dk(fam_V ) $V30A  + ' ' > dk(fam_V ) $V31   
+dk(fam_V ) $V31   + ' ' > dk(fam_V ) $V31A  
+dk(fam_V ) $V31A  + ' ' > dk(fam_V ) $V32   
+dk(fam_V ) $V32   + ' ' > dk(fam_V ) $V33   
+dk(fam_V ) $V33   + ' ' > dk(fam_V ) $V33A  
+dk(fam_V ) $V33A  + ' ' > dk(fam_V ) $V34   
+dk(fam_V ) $V34   + ' ' > dk(fam_V ) $V35   
+dk(fam_V ) $V35   + ' ' > dk(fam_V ) $V36   
+dk(fam_V ) $V36   + ' ' > dk(fam_V ) $V37   
+dk(fam_V ) $V37   + ' ' > dk(fam_V ) $V37A  
+dk(fam_V ) $V37A  + ' ' > dk(fam_V ) $V38   
+dk(fam_V ) $V38   + ' ' > dk(fam_V ) $V39   
+dk(fam_V ) $V39   + ' ' > dk(fam_V ) $V40   
+dk(fam_V ) $V40   + ' ' > dk(fam_V ) $V40A  
+
+
+
+dk(fam_W ) $W25  + ' ' > dk(fam_W ) $W1    
+dk(fam_W ) $W1    + ' ' > dk(fam_W ) $W2    
+dk(fam_W ) $W2    + ' ' > dk(fam_W ) $W3    
+dk(fam_W ) $W3    + ' ' > dk(fam_W ) $W3A   
+dk(fam_W ) $W3A   + ' ' > dk(fam_W ) $W4    
+dk(fam_W ) $W4    + ' ' > dk(fam_W ) $W5    
+dk(fam_W ) $W5    + ' ' > dk(fam_W ) $W6    
+dk(fam_W ) $W6    + ' ' > dk(fam_W ) $W7    
+dk(fam_W ) $W7    + ' ' > dk(fam_W ) $W8    
+dk(fam_W ) $W8    + ' ' > dk(fam_W ) $W9    
+dk(fam_W ) $W9    + ' ' > dk(fam_W ) $W9A   
+dk(fam_W ) $W9A   + ' ' > dk(fam_W ) $W10   
+dk(fam_W ) $W10   + ' ' > dk(fam_W ) $W10A  
+dk(fam_W ) $W10A  + ' ' > dk(fam_W ) $W11   
+dk(fam_W ) $W11   + ' ' > dk(fam_W ) $W12   
+dk(fam_W ) $W12   + ' ' > dk(fam_W ) $W13   
+dk(fam_W ) $W13   + ' ' > dk(fam_W ) $W14   
+dk(fam_W ) $W14   + ' ' > dk(fam_W ) $W14A  
+dk(fam_W ) $W14A  + ' ' > dk(fam_W ) $W15   
+dk(fam_W ) $W15   + ' ' > dk(fam_W ) $W16   
+dk(fam_W ) $W16   + ' ' > dk(fam_W ) $W17   
+dk(fam_W ) $W17   + ' ' > dk(fam_W ) $W17A  
+dk(fam_W ) $W17A  + ' ' > dk(fam_W ) $W18   
+dk(fam_W ) $W18   + ' ' > dk(fam_W ) $W18A  
+dk(fam_W ) $W18A  + ' ' > dk(fam_W ) $W19   
+dk(fam_W ) $W19   + ' ' > dk(fam_W ) $W20   
+dk(fam_W ) $W20   + ' ' > dk(fam_W ) $W21   
+dk(fam_W ) $W21   + ' ' > dk(fam_W ) $W22   
+dk(fam_W ) $W22   + ' ' > dk(fam_W ) $W23   
+dk(fam_W ) $W23   + ' ' > dk(fam_W ) $W24   
+dk(fam_W ) $W24   + ' ' > dk(fam_W ) $W24A  
+dk(fam_W ) $W24A  + ' ' > dk(fam_W ) $W25   
+
+
+
+dk(fam_X ) $X8A   + ' ' > dk(fam_X ) $X1    
+dk(fam_X ) $X1    + ' ' > dk(fam_X ) $X2    
+dk(fam_X ) $X2    + ' ' > dk(fam_X ) $X3    
+dk(fam_X ) $X3    + ' ' > dk(fam_X ) $X4    
+dk(fam_X ) $X4    + ' ' > dk(fam_X ) $X4A   
+dk(fam_X ) $X4A   + ' ' > dk(fam_X ) $X4B   
+dk(fam_X ) $X4B   + ' ' > dk(fam_X ) $X5    
+dk(fam_X ) $X5    + ' ' > dk(fam_X ) $X6    
+dk(fam_X ) $X6    + ' ' > dk(fam_X ) $X6A   
+dk(fam_X ) $X6A   + ' ' > dk(fam_X ) $X7    
+dk(fam_X ) $X7    + ' ' > dk(fam_X ) $X8    
+dk(fam_X ) $X8    + ' ' > dk(fam_X ) $X8A   
+
+
+dk(fam_Y ) $Y8   + ' ' > dk(fam_Y ) $Y1    
+dk(fam_Y ) $Y1    + ' ' > dk(fam_Y ) $Y1A   
+dk(fam_Y ) $Y1A   + ' ' > dk(fam_Y ) $Y2    
+dk(fam_Y ) $Y2    + ' ' > dk(fam_Y ) $Y3    
+dk(fam_Y ) $Y3    + ' ' > dk(fam_Y ) $Y4    
+dk(fam_Y ) $Y4    + ' ' > dk(fam_Y ) $Y5    
+dk(fam_Y ) $Y5    + ' ' > dk(fam_Y ) $Y6    
+dk(fam_Y ) $Y6    + ' ' > dk(fam_Y ) $Y7    
+dk(fam_Y ) $Y7    + ' ' > dk(fam_Y ) $Y8 
+
+   
+dk(fam_Z ) $Z16H  + ' ' > dk(fam_Z ) $Z1    
+dk(fam_Z ) $Z1    + ' ' > dk(fam_Z ) $Z2    
+dk(fam_Z ) $Z2    + ' ' > dk(fam_Z ) $Z2A   
+dk(fam_Z ) $Z2A   + ' ' > dk(fam_Z ) $Z2B   
+dk(fam_Z ) $Z2B   + ' ' > dk(fam_Z ) $Z2C   
+dk(fam_Z ) $Z2C   + ' ' > dk(fam_Z ) $Z2D   
+dk(fam_Z ) $Z2D   + ' ' > dk(fam_Z ) $Z3    
+dk(fam_Z ) $Z3    + ' ' > dk(fam_Z ) $Z3A   
+dk(fam_Z ) $Z3A   + ' ' > dk(fam_Z ) $Z3B   
+dk(fam_Z ) $Z3B   + ' ' > dk(fam_Z ) $Z4    
+dk(fam_Z ) $Z4    + ' ' > dk(fam_Z ) $Z4A   
+dk(fam_Z ) $Z4A   + ' ' > dk(fam_Z ) $Z5    
+dk(fam_Z ) $Z5    + ' ' > dk(fam_Z ) $Z5A   
+dk(fam_Z ) $Z5A   + ' ' > dk(fam_Z ) $Z6    
+dk(fam_Z ) $Z6    + ' ' > dk(fam_Z ) $Z7    
+dk(fam_Z ) $Z7    + ' ' > dk(fam_Z ) $Z8    
+dk(fam_Z ) $Z8    + ' ' > dk(fam_Z ) $Z9    
+dk(fam_Z ) $Z9    + ' ' > dk(fam_Z ) $Z10   
+dk(fam_Z ) $Z10   + ' ' > dk(fam_Z ) $Z11   
+dk(fam_Z ) $Z11   + ' ' > dk(fam_Z ) $Z12   
+dk(fam_Z ) $Z12   + ' ' > dk(fam_Z ) $Z13   
+dk(fam_Z ) $Z13   + ' ' > dk(fam_Z ) $Z14   
+dk(fam_Z ) $Z14   + ' ' > dk(fam_Z ) $Z15   
+dk(fam_Z ) $Z15   + ' ' > dk(fam_Z ) $Z15A  
+dk(fam_Z ) $Z15A  + ' ' > dk(fam_Z ) $Z15B  
+dk(fam_Z ) $Z15B  + ' ' > dk(fam_Z ) $Z15C  
+dk(fam_Z ) $Z15C  + ' ' > dk(fam_Z ) $Z15D  
+dk(fam_Z ) $Z15D  + ' ' > dk(fam_Z ) $Z15E  
+dk(fam_Z ) $Z15E  + ' ' > dk(fam_Z ) $Z15F  
+dk(fam_Z ) $Z15F  + ' ' > dk(fam_Z ) $Z15G  
+dk(fam_Z ) $Z15G  + ' ' > dk(fam_Z ) $Z15H  
+dk(fam_Z ) $Z15H  + ' ' > dk(fam_Z ) $Z15I  
+dk(fam_Z ) $Z15I  + ' ' > dk(fam_Z ) $Z16   
+dk(fam_Z ) $Z16   + ' ' > dk(fam_Z ) $Z16A  
+dk(fam_Z ) $Z16A  + ' ' > dk(fam_Z ) $Z16B  
+dk(fam_Z ) $Z16B  + ' ' > dk(fam_Z ) $Z16C  
+dk(fam_Z ) $Z16C  + ' ' > dk(fam_Z ) $Z16D  
+dk(fam_Z ) $Z16D  + ' ' > dk(fam_Z ) $Z16E  
+dk(fam_Z ) $Z16E  + ' ' > dk(fam_Z ) $Z16F  
+dk(fam_Z ) $Z16F  + ' ' > dk(fam_Z ) $Z16G  
+dk(fam_Z ) $Z16G  + ' ' > dk(fam_Z ) $Z16H  
+
+
+dk(fam_Aa) $Aa32  + ' ' > dk(fam_Aa) $Aa1   
+dk(fam_Aa) $Aa1   + ' ' > dk(fam_Aa) $Aa2   
+dk(fam_Aa) $Aa2   + ' ' > dk(fam_Aa) $Aa3   
+dk(fam_Aa) $Aa3   + ' ' > dk(fam_Aa) $Aa4   
+dk(fam_Aa) $Aa4   + ' ' > dk(fam_Aa) $Aa5   
+dk(fam_Aa) $Aa5   + ' ' > dk(fam_Aa) $Aa6   
+dk(fam_Aa) $Aa6   + ' ' > dk(fam_Aa) $Aa7   
+dk(fam_Aa) $Aa7   + ' ' > dk(fam_Aa) $Aa7A  
+dk(fam_Aa) $Aa7A  + ' ' > dk(fam_Aa) $Aa7B  
+dk(fam_Aa) $Aa7B  + ' ' > dk(fam_Aa) $Aa8   
+dk(fam_Aa) $Aa8   + ' ' > dk(fam_Aa) $Aa9   
+dk(fam_Aa) $Aa9   + ' ' > dk(fam_Aa) $Aa10  
+dk(fam_Aa) $Aa10  + ' ' > dk(fam_Aa) $Aa11  
+dk(fam_Aa) $Aa11  + ' ' > dk(fam_Aa) $Aa12  
+dk(fam_Aa) $Aa12  + ' ' > dk(fam_Aa) $Aa13  
+dk(fam_Aa) $Aa13  + ' ' > dk(fam_Aa) $Aa14  
+dk(fam_Aa) $Aa14  + ' ' > dk(fam_Aa) $Aa15  
+dk(fam_Aa) $Aa15  + ' ' > dk(fam_Aa) $Aa16  
+dk(fam_Aa) $Aa16  + ' ' > dk(fam_Aa) $Aa17  
+dk(fam_Aa) $Aa17  + ' ' > dk(fam_Aa) $Aa18  
+dk(fam_Aa) $Aa18  + ' ' > dk(fam_Aa) $Aa19  
+dk(fam_Aa) $Aa19  + ' ' > dk(fam_Aa) $Aa20  
+dk(fam_Aa) $Aa20  + ' ' > dk(fam_Aa) $Aa21  
+dk(fam_Aa) $Aa21  + ' ' > dk(fam_Aa) $Aa22  
+dk(fam_Aa) $Aa22  + ' ' > dk(fam_Aa) $Aa23  
+dk(fam_Aa) $Aa23  + ' ' > dk(fam_Aa) $Aa24  
+dk(fam_Aa) $Aa24  + ' ' > dk(fam_Aa) $Aa25  
+dk(fam_Aa) $Aa25  + ' ' > dk(fam_Aa) $Aa26  
+dk(fam_Aa) $Aa26  + ' ' > dk(fam_Aa) $Aa27  
+dk(fam_Aa) $Aa27  + ' ' > dk(fam_Aa) $Aa28  
+dk(fam_Aa) $Aa28  + ' ' > dk(fam_Aa) $Aa29  
+dk(fam_Aa) $Aa29  + ' ' > dk(fam_Aa) $Aa30  
+dk(fam_Aa) $Aa30  + ' ' > dk(fam_Aa) $Aa31  
+dk(fam_Aa) $Aa31  + ' ' > dk(fam_Aa) $Aa32  
+ 
